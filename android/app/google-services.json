@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541611171280",
+    "project_id": "mb-gate-system",
+    "storage_bucket": "mb-gate-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541611171280:android:64181b6f174ea52974add5",
+        "android_client_info": {
+          "package_name": "com.example.gatesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541611171280-vuli61i720gf67uk976en8ej8u0fhnjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxOt3P905MTbCF4ZBgnVf0NjdZQIGkc9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541611171280-vuli61i720gf67uk976en8ej8u0fhnjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
